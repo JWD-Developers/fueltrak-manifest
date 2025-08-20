@@ -8,6 +8,7 @@
   "background_color": "#ffffff",
   "theme_color": "#03173d",
   "prefer_related_applications": false,
+  "scope":"/"
   "icons": [
     {
       "src": "icons/GasCan-512.png",
