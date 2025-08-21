@@ -3,7 +3,7 @@
   "name": "FuelTrak",
   "short_name": "FuelTrak",
   "id": "/",
-  "start_url": "/",
+  "start_url": "https://jwd-fueltrak.jwdidado.com",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#03173d",
